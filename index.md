@@ -3,7 +3,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-### como agregar codigo
+## como agregar codigo
 
 ``` javascript
 var myVar = "Hello, world!";
@@ -14,6 +14,12 @@ esta es una muestra de bash
 //mn325/tmpu/ecabral_g/ecabral/insarlab/infiles/ecabral/TEMPLATES[1010] cd $SCRATCHDIR
 ```
 
-#### cuarto
+## generando lista
+
+- [x] agregando titulos
+- [x] agergando imagenes
+- [x] agregando codigo
+- [ ] Introduce myself to the world
+
 ##### quinto
 ###### sexto
